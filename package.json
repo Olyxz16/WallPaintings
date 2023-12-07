@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
     "jimp": "^0.22.10",
     "wallpaper": "^7.2.0"
   }
